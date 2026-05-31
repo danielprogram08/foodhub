@@ -1,0 +1,7 @@
+.git
+.gitignore
+.vscode
+foodhub360-backend/target
+foodhub360-frontend/node_modules
+**/.DS_Store
+**/Thumbs.db
