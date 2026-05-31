@@ -97,7 +97,6 @@ function renderAuth() {
                         <p>MVP operacional para cliente, atendente, entregador e administrador acompanharem pedidos em tempo real.</p>
                     </div>
                 </div>
-                <div class="small">Sessao local via localStorage. Sem servidor, sem CORS, pronto para GitHub Pages.</div>
             </section>
             <section class="auth-main">
                 <div class="auth-card">
